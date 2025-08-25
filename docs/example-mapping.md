@@ -26,7 +26,7 @@ not focusing on the rules, or use cases from the original technique_
 
 ## Canceling hold
 
-![Canceling hold](images/em/expiring-hold.png)
+![Canceling hold](images/em/canceling-hold.png)
 
 ## Overdue checkouts
 
